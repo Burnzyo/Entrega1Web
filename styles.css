@@ -1,0 +1,57 @@
+.banner img {
+  width: 100%;
+}
+
+.header {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 32px;
+  padding-top: 30px;
+  font-weight: bold;
+}
+
+.small-image {
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
+}
+
+.nopadding {
+  padding: 0 !important;
+}
+
+.nopadding1st {
+  padding-right: 0 !important;
+}
+
+.nopaddinglast {
+  padding-left: 0 !important;
+}
+
+.image {
+  padding: 30px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.page-footer {
+  background-color: #212529;
+  color: white;
+  height: 30px;
+}
+
+.navbar-brand {
+  padding-left: 25px;
+}
+
+.contenido,
+ul {
+  padding-left: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.video {
+  text-align: center;
+}
